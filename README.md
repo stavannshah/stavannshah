@@ -8,7 +8,7 @@
 
 ✌️   **Problem-solver, Data Engineer, and Machine Learning Enthusiast**  
 ❤️   **Building full-stack applications and integrating them with machine learning models**  
-📧   Feel free to reach out: **[shahstavan62@gmail.com](mailto:shahstavan62@gmail.com)**  
+📧   Feel free to reach out: **[shahstavan62@gmail.com](mailto:stavan.n.shah@gmail.com)**  
 
 ---
 
