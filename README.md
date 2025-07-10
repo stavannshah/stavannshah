@@ -1,56 +1,56 @@
 # Hey There! I'm Stavan Shah 👋  
 
-「 Hello! I'm Stavan Shah, a Computer Science Graduate Student at the **University of Florida** with a passion for building scalable, efficient, and impactful software solutions. From developing machine learning models to engineering complex data pipelines, I thrive at the intersection of data science, software development, and cloud computing. With a strong foundation in Python, R, SQL, and a knack for problem-solving, I aim to craft solutions that not only work but inspire. 」  
+「 Hello! I'm Stavan Shah, a Computer Science Graduate Student at the **University of Florida**, passionate about building agentic systems, full-stack applications, and AI-powered tools that solve real-world problems. From deploying LLM-integrated microservices to leading GenAI initiatives in production, I specialize in scalable, resilient, and intelligent software solutions. 」  
 
 ---
 
 ## About Me  
 
-✌️   **Problem-solver, Data Engineer, and Machine Learning Enthusiast**  
-❤️   **Building full-stack applications and integrating them with machine learning models**  
-📧   Feel free to reach out: **[shah.stavan.n@gmail.com](mailto:shah.stavan.n@gmail.com)**  
+🤖 **AI & GenAI Engineer | Software Developer | Systems Thinker**  
+⚙️ **Building full-stack & backend systems with Large Language Models (LLMs) and cloud-native architectures**  
+📧 Reach out: **[shah.stavan.n@gmail.com](mailto:shah.stavan.n@gmail.com)**  
+🔗 [LinkedIn](https://linkedin.com/in/stavannshah) | [GitHub](https://github.com/stavannshah)
 
 ---
 
-## 🔑 Key Highlights  
+## 🧠 Recent AI/Agent Work  
 
-🔧 **Technical Skills:**  
-Proficient in **Python**, **R**, **Java**, **JavaScript**, and a suite of frameworks like **Django**, **ReactJS**, **TensorFlow**, and **Keras**.  
+### 🧑‍💻 AI Team Matching Agent (University of Florida)  
+- Developed an **agentic RAG (Retrieval-Augmented Generation)** system using **Hugging Face + LangChain**, matching student teams to advisors with 92% accuracy  
+- Engineered a **BM25 + vector hybrid retrieval system** using PostgreSQL and OpenAI embeddings, cutting response latency by 35%  
+- Integrated **FastAPI**, **TruLens**, and **PEFT** for on-the-fly evaluation and fine-tuning of LLM responses
 
-📚 **Education:**  
-- **Master of Science in Computer Science** @ **University of Florida**  
-- **Bachelor of Engineering in Information Technology** @ **Pune Institute of Computer Technology**  
-
-🚀 **Experience:**  
-- **Software Intern** @ **TradeSun**: Built ETL pipelines, statistical models, and integrated AI-driven solutions with **Azure OpenAI**.  
-- **Business Technology Developer** @ **ZS Associates**: Architected real-time data pipelines, deployed predictive models, and streamlined workflows with **Databricks** and **Airflow**.  
-
-🏆 **Achievements:**  
-- Winner of the **Project Champions Award 2020**  
-- Secured **5th place** in ZS Data-A-Thon, competing with 240 participants.  
+### 🧪 GenAI Anomaly Detection System (TradeSun)  
+- Built a **Flask-based microservice** combining SQL and NoSQL for real-time data access across 500K+ records  
+- Integrated **Azure OpenAI** for intelligent anomaly detection, increasing accuracy by 35%  
+- Debugged and scaled production services with **Sentry**, Docker, and performance tracing
 
 ---
 
-## Roles I Thrive In  
-- **Data Engineering**  
-- **Backend Development**  
-- **Machine Learning Ops**  
+## 🔧 Technical Toolkit  
+
+### **Languages & Frameworks**  
+Python | Go | JavaScript | Node.js | Java | C++ | R | FastAPI | Flask | Django | React.js | Vue.js  
+
+### **GenAI & ML Libraries**  
+Hugging Face Transformers | LangChain | PyTorch | Scikit-learn | PEFT | TruLens | Pandas | FAISS | OpenAI API  
+
+### **Cloud, Data & DevOps**  
+AWS | Azure | GCP | Docker | Kubernetes | PostgreSQL | MongoDB | Redis | Databricks | Snowflake | GitHub Actions | Jenkins  
 
 ---
 
-## 🛠️ Technologies I Work With  
+## 💡 Other Notable Projects  
+- 🧬 **[Cancer Subtype Classification](https://github.com/stavannshah/cancer_subtype_classification):** Used multi-modal deep learning to classify BRCA and LUAD using TCGA omics data  
+- 🧠 **[GenNer](https://github.com/MishNia/GenNer):** Generalized NER system for diverse domains (biomedicine, law, finance, news)  
 
-### **Programming Languages**  
-Python | R | Java | C++ | JavaScript  
+---
 
-### **Frameworks & Libraries**  
-Django | Flask | ReactJS | TensorFlow | Keras | Pandas | RShiny  
-
-### **Cloud & Databases**  
-AWS | PostgreSQL | MongoDB | Oracle SQL | Databricks  
-
-### **Tools**  
-Apache Airflow | Spark | Docker | Tableau | Git | Jira  
+## 🏆 Awards & Leadership  
+- 🥇 **Project Champion Award** @ ZS Associates  
+- 🧠 **Top 5** @ ZS Data-a-thon, ShellHacks Hackathon  
+- 🎓 **Graduate Research Scholarship** @ UF  
+- 👨‍🏫 **Teaching Assistant (Software Engineering)** @ University of Florida  
 
 ---
 
@@ -62,4 +62,4 @@ Apache Airflow | Spark | Docker | Tableau | Git | Jira
 
 ---
 
-🌟 **Let’s Collaborate and Innovate Together!** 🌟  
+🌟 **Let’s collaborate on GenAI and agentic systems to shape the future of intelligent software!** 🌟  
